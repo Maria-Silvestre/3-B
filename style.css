@@ -1,1 +1,12 @@
-background
+body{
+    background-color: lavender;
+    text-align: center;
+}
+h1{
+    font-style: italic;
+    color: black;
+}
+
+.imagem {
+    width: 30%;
+}
