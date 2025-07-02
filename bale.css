@@ -1,0 +1,14 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+
+h1{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.bale {
+    width: 40%;
+}
+
