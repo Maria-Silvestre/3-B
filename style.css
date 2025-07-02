@@ -17,6 +17,9 @@ ul{
 }
 
 header {
+    padding: 1rem;
+    margin: 0;
+    text-align: left;
     background-color: rgb(99, 77, 114);
 }
 

@@ -11,3 +11,14 @@ h1{
 .hiphop {
     width: 50%;
 }
+
+header {
+    padding: 1rem;
+    margin: 0;
+    text-align: left;
+    background-color: rgb(15, 33, 44);
+}
+
+a {
+    color: white;
+}

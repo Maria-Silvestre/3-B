@@ -12,3 +12,13 @@ h1{
     width: 40%;
 }
 
+header {
+    padding: 1rem;
+    margin: 0;
+    text-align: left;
+    background-color: rgb(58, 47, 35);
+}
+
+a {
+    color: white;
+}
